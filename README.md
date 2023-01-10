@@ -1,4 +1,6 @@
 # Mancala
+Code available at https://github.com/ParkerJStone/MancalaCODE upon recruiter request.
+
 
 Implementaiton of Mancala Board Game with Java and Java Swing. Supports up to two AI players, multiple game variants, and game customization options.
 
